@@ -1,0 +1,3 @@
+rootProject.name = 'allocate_4194'
+
+include ':app'
